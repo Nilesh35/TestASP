@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        Changed 1    
+        Changed 1
+        Changed 2
     </div>
     </form>
 </body>
